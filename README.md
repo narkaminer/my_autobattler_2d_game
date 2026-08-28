@@ -1,12 +1,6 @@
 # my_autobattler_2d_game
 A mobile 2D autobattler combining simple real-time battles with RPG-style progression and unit evolution.
 
-## 🎥 Gameplay Demo
-
-A short demonstration of the current gameplay prototype.
-
-<video src="./Movie_001.mp4" controls width="800"></video>
-
 # 2D Autobattler
 
 A mobile 2D autobattler combining simple real-time battles with RPG-style progression and unit evolution.
