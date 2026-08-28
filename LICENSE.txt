@@ -1,0 +1,9 @@
+Copyright © 2026. All rights reserved.
+
+This project, including its source code, assets, designs, documentation, and other original materials, is proprietary.
+
+No permission is granted to copy, modify, distribute, sublicense, publish, or use any part of this project in other projects, including commercial projects, without explicit written permission from the copyright holder.
+
+The repository is publicly available for viewing and development reference only.
+
+All rights reserved.
